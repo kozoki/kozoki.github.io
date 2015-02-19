@@ -1,7 +1,4 @@
-
-
-
-
+//checking git success
 $(".nav-item1").click(function(){
 $(".views").addClass("hide");
 $(".view1").removeClass("hide");
